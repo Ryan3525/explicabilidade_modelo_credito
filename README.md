@@ -1,4 +1,4 @@
-# xplicabilidade de Modelos Preditivos de Crédito com LIME
+# Explicabilidade de Modelos Preditivos de Crédito com LIME
 
 Modelos de machine learning são amplamente utilizados em sistemas de análise de crédito bancário, uma vez que conseguem prever com alta precisão se um cliente é um bom ou mau pagador. No entanto, esses modelos são frequentemente criticados por atuarem como "caixas-pretas".
 
